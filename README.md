@@ -1,5 +1,3 @@
-PA2.pdf
-
 # Parallel String Matching Project
 More information in [Project Description](PA2.pdf)
 
