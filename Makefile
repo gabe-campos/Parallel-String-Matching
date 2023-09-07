@@ -1,5 +1,3 @@
-PA2.pdf
-
 CC=gcc
 CFLAGS=-g
 
